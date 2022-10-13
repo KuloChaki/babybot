@@ -1,0 +1,24 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "6287708708788@s.whatsapp.net",
+   "ownerName": "VnZ",
+   "botName": "MrK-BOT",
+   "footer": "MrK-BOT © 2022",
+   "butName": "YouTube",
+   "butLink": "https://www.youtube.com/channel/UCprJmJRrdZTvkF3WzAPSvbQ",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "IG :",
+   "author": "shinigami.moba",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
